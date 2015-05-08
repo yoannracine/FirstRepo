@@ -4,3 +4,5 @@
 
 x <- seq(from = 1, to = 10)
 y <- seq(from = 1, to = 10)
+
+z <- x + y
